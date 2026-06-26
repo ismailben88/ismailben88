@@ -38,7 +38,7 @@ and turning ideas into functional products.
 
 ### 📊 GitHub Stats
 
-![Ismail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismailben88&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+[![Ismail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismailben88&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=ismailben88&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailben88&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
