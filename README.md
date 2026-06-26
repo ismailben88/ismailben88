@@ -38,11 +38,13 @@ and turning ideas into functional products.
 
 ### 📊 GitHub Stats
 
-![Ismail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismailben88&show_icons=true&theme=tokyonight&hide_border=true)
+![Ismail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailben88&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailben88&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ismailben88&color=blue&style=flat)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ismailben88E&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ismailben&color=blue&style=flat)
 
 ---
 
